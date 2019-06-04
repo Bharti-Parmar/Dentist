@@ -2,7 +2,7 @@
 Dentist Website
 
 # Use Languages
-Bootstrap, CSS, JavaScript, JQuery, Php and MySQL
+Bootstrap, CSS, JavaScript, JQuery, Php and MySQL.
 
 # Tools
 Xampp server, sublime text editor
